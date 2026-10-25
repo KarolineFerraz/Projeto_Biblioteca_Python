@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "ano": 1605,
+        "disponivel": true
+    },
+    {
+        "titulo": "O Grande Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "ano": 1925,
+        "disponivel": true
+    },
+    {
+        "titulo": "Em Busca do Tempo Perdido",
+        "autor": "Marcel Proust",
+        "ano": 1913,
+        "disponivel": true
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "ano": 1925,
+        "disponivel": true
+    },
+    {
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "ano": 1890,
+        "disponivel": true
+    }
+]
